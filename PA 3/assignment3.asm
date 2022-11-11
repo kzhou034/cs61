@@ -1,11 +1,5 @@
 ;=========================================================================
-; Name & Email must be EXACTLY as in Gradescope roster!
-; Name: Kelley Zhou
-; Email: kzhou034@ucr.edu
-; 
-; Assignment name: Assignment 3
-; Lab section: 23
-; TA: Shirin
+
 ; 
 ; I hereby certify that I have not received assistance on this assignment,
 ; or used code, from ANY outside source other than the instruction team
