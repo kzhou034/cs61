@@ -1,11 +1,5 @@
 ;=================================================
-; Name: Kelley Zhou
-; Email: kzhou034@ucr.edu
-; 
-; Lab: lab 9, ex 1
-; Lab section: 23
-; TA: Shirin
-; 
+
 ;=================================================
 
 ; test harness
